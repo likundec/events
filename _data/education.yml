@@ -1,12 +1,19 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: PhD candidate, Computer Architecture
+  uni: University of Chinese Academy of Sciences
+  year: 2016 &mdash; Now
+  #awards:
+   # - award: Summa Cumme Laude graduate
+  #summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
+- degree: Bachelor of Engineering, Computer Science and Technology
+  uni: Shandong University
+  year: 2012 &mdash; 2016
+  #awards:
+  #  - award: Summa Cumme Laude graduate
+  #summary: If you had any meaningful roles at college, feel free to write about them here 
+
+#- degree: High School Diploma
   uni: Springfield High School
   year: 2004
   award: Most likely to succeed

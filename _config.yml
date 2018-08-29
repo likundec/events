@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Kwin Lee"
-resume_title:                   "Ph.D Student"
+resume_title:                   "PhD Candidate"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "likundec@gmail.com"
