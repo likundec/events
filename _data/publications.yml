@@ -1,10 +1,10 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Youngerer Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Communication-Avoiding for Dynamical Core of Atmospheric General Circulation Model
+  organization: J. Xiao, S. Li, B. Wu, H. Zhang, K. Li, E. Yao, Y. Zhang, and G. Tan
+  #year: 2010, 2014
+  summary: Proceedings of the 47th International Conference on Parallel Processing, ICPP 2018, Eugene, OR, USA, August 13-16, 2018.
 
 - award: The Implementation and Optimization of Multidimensional FFT Algorithm on Large-scale Clusters
   organization: K. Li, H. Jia, T. Cao, and Y. Zhang
-  year: 2004
-  summary: HPC China 2016, Xi'an, China, Oct. 2016. <a href="https://weibo.com/u/2350107911">@likun</a>.
+  #year: 2004
+  summary: HPC China 2016, Xi'an, China, Oct. 2016. <a href="pdf/FFT_Large-Scale.pdf"><u>PDF</u></a>.
