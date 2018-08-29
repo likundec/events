@@ -138,7 +138,7 @@
   .resume-item { margin-bottom: 2rem; }
 
   .resume-item-title {
-    @include sans;
+    @include sans_bold;
     margin: 0 0 .75rem;
     font-size: 1.2rem;
     letter-spacing: -.05rem;
@@ -147,12 +147,12 @@
 
   .resume-item-details {
     
-    font-size:  5rem;
+    font-size:  1rem;
     margin: 0 0 .75rem;
     line-height: 1;
 
     &.award-title {
-      font-size: 1rem;
+      font-size: 3rem;
     }
   }
 
