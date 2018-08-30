@@ -138,6 +138,26 @@
       <!-- end Recognition -->
       {% endif %}
 
+      
+      {% if site.resume_section_awards %}
+      <!-- begin Skills -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Awards</h2>
+        </header>
+        {% for award in site.data.awards %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ award.skill }}</h4>
+          <p class="resume-item-copy">{{ award.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Skills -->
+      {% endif %}
+
+
 
       {% if site.resume_section_skills %}
       <!-- begin Skills -->

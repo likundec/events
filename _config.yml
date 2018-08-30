@@ -34,6 +34,7 @@ resume_header_intro: "<p>State Key Lab of Computer Architecture<br> Institute of
 # Decide which sections to use
 # comment out to hide
 resume_section_publications:      true
+resume_section_awards:      true
 resume_section_experience:      false
 resume_section_education:       true
 resume_section_projects:        false
