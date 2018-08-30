@@ -148,7 +148,8 @@
         </header>
         {% for award in site.data.awards %}
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ award.skill }}</h4>
+          <h3 class="resume-item-title" itemprop="skill">{{ award.skill }}</h3>
+        
           <p class="resume-item-copy">{{ award.description }}</p>
         </div>
         {% endfor %}
