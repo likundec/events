@@ -133,9 +133,9 @@
 // resume content styles
 
 .content-section {
-  margin: 0 0 1rem;
+  margin: 0 0 0.5rem;
 
-  .resume-item { margin-bottom: 0.75rem; }
+  .resume-item { margin-bottom: 0.5rem; }
 
   .resume-item-title {
     @include sans_bold;//调节每一栏目首行字体
@@ -172,7 +172,7 @@
     }
   }
 
-  .resume-item-copy { margin: .75rem 0 0; }
+  .resume-item-copy { margin: .5rem 0 0; }
 }
 
 // footer styles
