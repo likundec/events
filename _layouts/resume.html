@@ -119,7 +119,7 @@
 
       
       {% if site.resume_section_publications %}
-      <!-- begin Recognition -->
+      <!-- begin Publications -->
       <section class="content-section">
 
         <header class="section-header">
@@ -135,12 +135,31 @@
         {% endfor %}
 
       </section>
-      <!-- end Recognition -->
+      <!-- end Publications -->
+      {% endif %}
+
+      {% if site.resume_section_awards %}
+      <!-- begin Conferences -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Conferences</h2>
+        </header>
+        {% for award in site.data.conferences %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="skill">{{ conference.skill }}</h3>
+        
+          <p class="resume-item-copy">{{ conference.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Conferences -->
       {% endif %}
 
       
       {% if site.resume_section_awards %}
-      <!-- begin Skills -->
+      <!-- begin Awards -->
       <section class="content-section">
 
         <header class="section-header">
@@ -155,8 +174,9 @@
         {% endfor %}
 
       </section>
-      <!-- end Skills -->
+      <!-- end Awards -->
       {% endif %}
+
 
 
 
