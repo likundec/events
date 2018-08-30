@@ -1,28 +1,33 @@
 # Skills
 # Organizational leadership
-- skill: Outstanding Volunteer
-  description: 1/2018, Institute of Computing Technology.
+- skill: Solver 2018 Workshop
+  description: 6/2018, Xiangtan, Hunan.
+
+- skill: The 32nd ACM International Conference on Supercomputing
+  description: 6/2018, Beijing.
+
+- skill: The 2nd World Intelligence Congress
+  description: 5/2018, Tianjin.
+
+- skill: Tianhe-2 Supercomputer Performance Evaluation Workshop
+  description: 1/2018, Guangzhou, Guangdong. <I>Evaluation Report:"Performance Evaluation on Manycore chips for Tianhe-2 Supercomputer."</I>
 
 # Communications strategy
-- skill: Merit Student
-  description: 6/2017, University of Chinese Academy of Sciences.
+- skill: Square Kilometre Array Annual Conference
+  description: 12/2017, Shanghai. <I>Lectures:"SKA Data Processing Algorithm Research."</I>
 
 # Communications strategy
-- skill: Excellent Student Cadre
-  description: 6/2017, University of Chinese Academy of Sciences.
-
-# Digital content development and creation
-- skill: Bronze Award, Intel Parallel Application Challenge 
-  description: 10/2016, Xi'an.<a href="http://www.pac-hpc.com/index.php?m=content&c=index&a=show&catid=102&id=21">More Information</a>
-
-# Digital content development and creation
-- skill: Second Prize, National College Student Information Security Contest 
-  description: 8/2015, Shenyang. <a href="http://www.ciscn.cn/competition/securityCompetition?compet_id=1">More Information</a>
-
-# Digital content development and creation
-- skill: Excellence Award, ChinaVis Data Challenge 
-  description: 7/2015, Tianjin. <a href="http://chinavis.org/2015/index_challenge.html">More Information</a>
+- skill: National Annual Conference on High Performance Computing 2017
+  description: 10/2017, Hefei, Anhui.
 
 # Communications strategy
-- skill: First Prize, Contemporary Undergraduate Mathematical Contest in Modeling
-  description: 1/2015, Jinan.
+- skill: Square Kilometre Array Algorithm Workshop
+  description: 7/2017, Zhengzhou, Henan.
+
+# Communications strategy
+- skill: Square Kilometre Array Data Processing Key Techniques Workshop
+  description: 4/2017, Shanghai. <I>Lectures:"The Large-scale Applications of Data Processing Algorithm."</I>
+
+# Communications strategy
+- skill: National Annual Conference on High Performance Computing 2016
+  description: 10/2016, Xi'an, Shaanxi.  <I>Lectures:"The Implementation and Optimization of FFT Algorithm on Large-scale Clusters."</I>
