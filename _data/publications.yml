@@ -1,6 +1,6 @@
 # Recognitions
 
-- award: FastNBL, Fast Neighbor Lists Establishment for Molecular Dynamics Simulation Based on Bitwise Operations
+- award: FastNBL： Fast Neighbor Lists Establishment for Molecular Dynamics Simulation Based on Bitwise Operations
   organization: K. Li, S. Li, S. Huang, Y. Chen, and Y. Zhang
   #year: 2004
   summary: (J)Cluster Computing. To be appeared.
@@ -8,9 +8,9 @@
 - award: Communication-Avoiding for Dynamical Core of Atmospheric General Circulation Model
   organization: J. Xiao, S. Li, B. Wu, H. Zhang, K. Li, E. Yao, Y. Zhang, and G. Tan
   #year: 2010, 2014
-  summary: Proceedings of the 47th International Conference on Parallel Processing, ICPP 2018, Eugene, OR, USA, August 13-16, 2018.<a href="pdf/communication_avoid.pdf"><u>PDF</u></a>.
+  summary: Proceedings of the 47th International Conference on Parallel Processing, ICPP 2018, Eugene, OR, USA, August 13-16, 2018.<a href="pdf/communication_avoid.pdf">PDF</a>.
 
 - award: The Implementation and Optimization of Multidimensional FFT Algorithm on Large-scale Clusters
   organization: K. Li, H. Jia, T. Cao, and Y. Zhang
   #year: 2004
-  summary: HPC China 2016, Xi'an, China, Oct. 2016. <a href="pdf/FFT_Large-Scale.pdf"><u>PDF</u></a>.
+  summary: HPC China 2016, Xi'an, China, Oct. 2016. <a href="pdf/FFT_Large-Scale.pdf">PDF</a>.
