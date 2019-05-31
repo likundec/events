@@ -14,7 +14,7 @@ resume_name:                    "Kwin Lee"
 resume_title:                   "PhD Candidate"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "likundec@gmail.com"
+resume_contact_email:           "likun@ict.ac.cn"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
