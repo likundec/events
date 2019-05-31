@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "yes"
 
-resume_header_intro: "<p>State Key Lab of Computer Architecture<br> Institute of Computing Technology<br>Chinese Academy of Sciences<br>Email: likundec[AT]gmail[DOT]com<br>Address: No 6 Kexueyuannan Rd. Zhongguancun Haidian District Beijing 100190</p>"
+resume_header_intro: "<p>State Key Lab of Computer Architecture<br> Institute of Computing Technology<br>Chinese Academy of Sciences<br>Email: likun[AT]ict[DOT]ac[DOT]cn<br>Address: No 6 Kexueyuannan Rd. Zhongguancun Haidian District Beijing 100190</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
