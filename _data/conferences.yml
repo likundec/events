@@ -2,7 +2,7 @@
 # Organizational leadership
 
 - skill:  High Throughput and Multiscale Material Simulation Workshop
-  description: 04/2019, Taiyuan, Shanxi. <I>Lectures:"OpenKMC:Parallel Atomic Kinetic Monte Carlo Simulation Software on Large-scale clusters."</I> <a href="pdf/KMCtaiyuan.pdf">PDF</a>.
+  description: 04/2019, Taiyuan, Shanxi. <I>Lectures:"OpenKMC:Parallel Atomic Kinetic Monte Carlo Simulation Software on Large-scale clusters."</I><a href="pdf/KMCtaiyuan.pdf">PDF</a>.
 
 - skill:  Nuclear Reactors Prototype System Workshop`
   description: 04/2019, Yueyang, Hunan.
@@ -30,7 +30,7 @@
 
 # Communications strategy
 - skill: Square Kilometre Array Annual Conference
-  description: 12/2017, Shanghai. <I>Lectures:"SKA Data Processing Algorithm Research."</I> <a href="pdf/20171223SKA_FFT_PPT.pdf">PDF</a>. <a href="pdf/20171223SKA_FFT_Poster_print.pdf">POSTER</a>.
+  description: 12/2017, Shanghai. <I>Lectures:"SKA Data Processing Algorithm Research."</I> <a href="pdf/20171223SKA_FFT_PPT.pdf">PDF</a>.<a href="pdf/20171223SKA_FFT_Poster_print.pdf">POSTER</a>.
 
 # Communications strategy
 - skill: National Annual Conference on High Performance Computing 2017
@@ -42,8 +42,8 @@
 
 # Communications strategy
 - skill: Square Kilometre Array Data Processing Key Techniques Workshop
-  description: 4/2017, Shanghai. <I>Lectures:"The Large-scale Applications of Data Processing Algorithm."</I> <a href="pdf/ICT_FFT_ska_v1.pdf">POSTER</a>.
+  description: 4/2017, Shanghai. <I>Lectures:"The Large-scale Applications of Data Processing Algorithm."</I><a href="pdf/ICT_FFT_ska_v1.pdf">POSTER</a>.
 
 # Communications strategy
 - skill: National Annual Conference on High Performance Computing 2016
-  description: 10/2016, Xi'an, Shaanxi.  <I>Lectures:"The Implementation and Optimization of FFT Algorithm on Large-scale Clusters."</I> <a href="pdf/slides_new.pdf">PDF</a>.
+  description: 10/2016, Xi'an, Shaanxi.  <I>Lectures:"The Implementation and Optimization of FFT Algorithm on Large-scale Clusters."</I><a href="pdf/slides_new.pdf">PDF</a>.
