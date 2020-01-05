@@ -1,5 +1,16 @@
 # Recognitions
 
+
+- award: OpenKMC: a KMC Design for Hundred-Billion-Atom Simulation Using Millions of Cores on Sunway Taihulight 
+  organization: Li K, Shang H, Zhang Y, et al.
+  #year: 2004
+  summary: Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis. ACM Press, 2019:12. &nbsp;<a href="pdf/openkmc.pdf">PDF</a>.
+
+- award: swMD:Performance Optimizations for MolecularDynamics Simulation on Sunway Taihulight
+  organization: Li Kun, Li Shigang, Wang Bei, Chen Yifeng and Zhang Yunquan
+  #year: 2004
+  summary: 17th IEEE International Symposium on Parallel and Distributed Processing with Applications
+
 - award: FastNBL:Fast Neighbor Lists Establishment for Molecular Dynamics Simulation Based on Bitwise Operations
   organization: K. Li, S. Li, S. Huang, Y. Chen, and Y. Zhang
   #year: 2004

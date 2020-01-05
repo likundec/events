@@ -1,15 +1,20 @@
 # Skills
 # Organizational leadership
+- skill: ISPA 2019/BDClound 2019/SocialCom 2019/SustainCom 2019
+  description: 12/2019, Xiamen, Fujian.
+
+- skill: The Sugon Supercomputing Workshop
+  description: 12/2019, Kunshan, Jiangsu.
 
 - skill: The 2nd Nuclear Material Technology Innovation Congress
-  description: 11/2019, Denver, Colorado, USA. <I>Lectures:"OpenKMC:&nbsp a KMC design for hundred-billion-atom simulation using millions of cores on Sunway Taihulight."</I> &nbsp;<a href="pdf/KMCtaiyuan.pdf">PDF</a>.
+  description: 11/2019, Denver, Colorado, USA. <I>Lectures:"OpenKMC:&nbsp a KMC design for hundred-billion-atom simulation using millions of cores on Sunway Taihulight."
 
 - skill: The 2nd Nuclear Material Technology Innovation Congress
   description: 09/2019, Shanghai.
 
 - skill: National Annual Conference on High Performance Computing 2019
   description: 08/2019, Hohhot, Inner Mongolia.
-  
+
 - skill:  High Throughput and Multiscale Material Simulation Workshop
   description: 04/2019, Taiyuan, Shanxi. <I>Lectures:"OpenKMC:Parallel Atomic Kinetic Monte Carlo Simulation Software on Large-scale clusters."</I> &nbsp;<a href="pdf/KMCtaiyuan.pdf">PDF</a>.
 
