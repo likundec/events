@@ -1,5 +1,19 @@
 # Recognitions
 
+- award: An Efficient Vectorization Scheme for Stencil Computation
+  organization: Li K, Yuan L, Zhang Y, Yue Y.
+  #year: 2004
+  summary: Proceedings of the International Parallel and Distributed Processing Symposium. IEEE Press, 2022:12. &nbsp;<a href="pdf/IPDPS2022_IEEE___Camera_ready_.pdf">PDF</a>.
+
+- award: An Accurate and Efficient Large-scale Regression Method through Best Friend Clustering
+  organization: Li K, Yuan L, Zhang Y, Chen G.
+  #year: 2004
+  summary: IEEE Transactions on Parallel and Distributed Systems. &nbsp;<a href="pdf/TPDS2021__ML___Camera_ready.pdf">PDF</a>.
+
+- award: Reducing Redundancy in Data Organization and Arithmetic Calculation for Stencil Computations
+  organization: Li K, Yuan L, Zhang Y, Yue Y.
+  #year: 2004
+  summary: Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis. ACM Press, 2021:12. &nbsp;<a href="pdf/SC21_Comp_Fold___Camera_ready.pdf">PDF</a>.
 
 - award: OpenKMC:a KMC Design for Hundred-Billion-Atom Simulation Using Millions of Cores on Sunway Taihulight 
   organization: Li K, Shang H, Zhang Y, et al.
