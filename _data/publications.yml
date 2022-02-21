@@ -8,9 +8,14 @@
 - award: An Accurate and Efficient Large-scale Regression Method through Best Friend Clustering
   organization: Li K, Yuan L, Zhang Y, Chen G.
   #year: 2004
-  summary: [TPDS, CCF-A] IEEE Transactions on Parallel and Distributed Systems. &nbsp;<a href="pdf/TPDS2021__ML___Camera_ready.pdf">PDF</a>.
+  summary: [IEEE TPDS, CCF-A] IEEE Transactions on Parallel and Distributed Systems. &nbsp;<a href="pdf/TPDS2021__ML___Camera_ready.pdf">PDF</a>.
 
 - award: Reducing Redundancy in Data Organization and Arithmetic Calculation for Stencil Computations
+  organization: Li K, Yuan L, Zhang Y, Yue Y.
+  #year: 2004
+  summary: [SC 22, CCF-A] Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis. ACM Press, 2021:12. &nbsp;<a href="pdf/SC21_Comp_Fold___Camera_ready.pdf">PDF</a>.
+
+- award: Temporal Vectorization for Stencils
   organization: Li K, Yuan L, Zhang Y, Yue Y.
   #year: 2004
   summary: [SC 22, CCF-A] Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis. ACM Press, 2021:12. &nbsp;<a href="pdf/SC21_Comp_Fold___Camera_ready.pdf">PDF</a>.
@@ -38,4 +43,4 @@
 - award: The Implementation and Optimization of Multidimensional FFT Algorithm on Large-scale Clusters
   organization: K. Li, H. Jia, T. Cao, and Y. Zhang
   #year: 2004
-  summary: [JFCT, CCF-B (CHN)] Journal of Frontiers of Computer Science and Technology, 2017, 11(6):863-874. &nbsp;<a href="pdf/FFT_Large-Scale.pdf">PDF</a>.
+  summary: [JFCT, CCF-B ] Journal of Frontiers of Computer Science and Technology, 2017, 11(6):863-874. &nbsp;<a href="pdf/FFT_Large-Scale.pdf">PDF</a>.
