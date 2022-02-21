@@ -3,44 +3,44 @@
 - award: An Efficient Vectorization Scheme for Stencil Computation
   organization: Li K, Yuan L, Zhang Y, Yue Y.
   #year: 2004
-  summary: (IPDPS 22, CCF-B) Proceedings of the International Parallel and Distributed Processing Symposium. IEEE Press, 2022:12. &nbsp;<a href="pdf/IPDPS2022_IEEE___Camera_ready_.pdf">PDF</a>.
+  summary: **(IPDPS 22, CCF-B)** Proceedings of the International Parallel and Distributed Processing Symposium. IEEE Press, 2022:12. &nbsp;<a href="pdf/IPDPS2022_IEEE___Camera_ready_.pdf">PDF</a>.
 
 - award: An Accurate and Efficient Large-scale Regression Method through Best Friend Clustering
   organization: Li K, Yuan L, Zhang Y, Chen G.
   #year: 2004
-  summary: \[IEEE TPDS, CCF-A\] IEEE Transactions on Parallel and Distributed Systems. &nbsp;<a href="pdf/TPDS2021__ML___Camera_ready.pdf">PDF</a>.
+  summary: (IEEE TPDS, CCF-A) IEEE Transactions on Parallel and Distributed Systems. &nbsp;<a href="pdf/TPDS2021__ML___Camera_ready.pdf">PDF</a>.
 
 - award: Reducing Redundancy in Data Organization and Arithmetic Calculation for Stencil Computations
   organization: Li K, Yuan L, Zhang Y, Yue Y.
   #year: 2004
-  summary: \[SC 22, CCF-A\] Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis. ACM Press, 2021:12. &nbsp;<a href="pdf/SC21_Comp_Fold___Camera_ready.pdf">PDF</a>.
+  summary: (SC 22, CCF-A) Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis. ACM Press, 2021:12. &nbsp;<a href="pdf/SC21_Comp_Fold___Camera_ready.pdf">PDF</a>.
 
 - award: Temporal Vectorization for Stencils
   organization: Li K, Yuan L, Zhang Y, Yue Y.
   #year: 2004
-  summary: \[SC 22, CCF-A\] Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis. ACM Press, 2021:12. &nbsp;<a href="pdf/SC21_Comp_Fold___Camera_ready.pdf">PDF</a>.
+  summary: (SC 22, CCF-A) Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis. ACM Press, 2021:12. &nbsp;<a href="pdf/SC21_Comp_Fold___Camera_ready.pdf">PDF</a>.
 
 - award: OpenKMC:a KMC Design for Hundred-Billion-Atom Simulation Using Millions of Cores on Sunway Taihulight 
   organization: Li K, Shang H, Zhang Y, et al.
   #year: 2004
-  summary: \[SC 19, CCF-A\] Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis. ACM Press, 2019:12. &nbsp;<a href="pdf/openkmc.pdf">PDF</a>.
+  summary: (SC 19, CCF-A) Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis. ACM Press, 2019:12. &nbsp;<a href="pdf/openkmc.pdf">PDF</a>.
 
 - award: swMD:Performance Optimizations for MolecularDynamics Simulation on Sunway Taihulight
   organization: Li Kun, Li Shigang, Wang Bei, Chen Yifeng and Zhang Yunquan
   #year: 2004
-  summary: \[ISPA 19, CCF-C\] 17th IEEE International Symposium on Parallel and Distributed Processing with Applications. 2019:1-8. &nbsp;<a href="pdf/swMD_Performance_Optimizations_for_Molecular_Dynamics_Simulation_on_Sunway_Taihulight.pdf">PDF</a>.
+  summary: (ISPA 19, CCF-C) 17th IEEE International Symposium on Parallel and Distributed Processing with Applications. 2019:1-8. &nbsp;<a href="pdf/swMD_Performance_Optimizations_for_Molecular_Dynamics_Simulation_on_Sunway_Taihulight.pdf">PDF</a>.
 
 - award: FastNBL:Fast Neighbor Lists Establishment for Molecular Dynamics Simulation Based on Bitwise Operations
   organization: K. Li, S. Li, S. Huang, Y. Chen, and Y. Zhang
   #year: 2004
-  summary: \[TJSC, CCF-B\] The Journal of Supercomputing, 2019:1-20. &nbsp;<a href="pdf/FastNBLFastNeighborLists.pdf">PDF</a>.
+  summary: (TJSC, CCF-B) The Journal of Supercomputing, 2019:1-20. &nbsp;<a href="pdf/FastNBLFastNeighborLists.pdf">PDF</a>.
 
 - award: Communication-Avoiding for Dynamical Core of Atmospheric General Circulation Model
   organization: J. Xiao, S. Li, B. Wu, H. Zhang, K. Li, E. Yao, Y. Zhang, and G. Tan
   #year: 2010, 2014
-  summary: \[ICPP 18, CCF-B\] Proceedings of the 47th International Conference on Parallel Processing, ICPP 2018, Eugene, OR, USA, August 13-16, 2018. &nbsp;<a href="pdf/communication_avoid.pdf">PDF</a>.
+  summary: (ICPP 18, CCF-B) Proceedings of the 47th International Conference on Parallel Processing, ICPP 2018, Eugene, OR, USA, August 13-16, 2018. &nbsp;<a href="pdf/communication_avoid.pdf">PDF</a>.
 
 - award: The Implementation and Optimization of Multidimensional FFT Algorithm on Large-scale Clusters
   organization: K. Li, H. Jia, T. Cao, and Y. Zhang
   #year: 2004
-  summary: \[JFCT, CCF-B\] Journal of Frontiers of Computer Science and Technology, 2017, 11(6):863-874. &nbsp;<a href="pdf/FFT_Large-Scale.pdf">PDF</a>.
+  summary: (JFCT, CCF-B) Journal of Frontiers of Computer Science and Technology, 2017, 11(6):863-874. &nbsp;<a href="pdf/FFT_Large-Scale.pdf">PDF</a>.
