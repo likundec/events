@@ -16,9 +16,9 @@
   summary: (SC 22, CCF-A) Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis. ACM Press, 2021:12. &nbsp;<a href="pdf/SC21_Comp_Fold___Camera_ready.pdf">PDF</a>.
 
 - award: Temporal Vectorization for Stencils
-  organization: Li K, Yuan L, Zhang Y, Yue Y.
+  organization: Yuan L, Zhang Y, Cao H, <b>Li K</b><br /> , et al.
   #year: 2004
-  summary: (SC 22, CCF-A) Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis. ACM Press, 2021:12. &nbsp;<a href="pdf/SC21_Comp_Fold___Camera_ready.pdf">PDF</a>.
+  summary: (SC 22, CCF-A) Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis. ACM Press, 2021:12. 
 
 - award: OpenKMC:a KMC Design for Hundred-Billion-Atom Simulation Using Millions of Cores on Sunway Taihulight 
   organization: Li K, Shang H, Zhang Y, et al.
